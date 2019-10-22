@@ -1,0 +1,7 @@
+{
+    "Dark theme css selector": {
+      "prefix": ["ndark", "nsd"],
+      "body": [".ns-dark "],
+      "description": "CSS selector for dark mode."
+    }
+  }
